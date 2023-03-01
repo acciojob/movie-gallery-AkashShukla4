@@ -8,3 +8,10 @@
 	align-items:center;
 	
 }
+.row1, .row2 , .row3{
+  display:flex;
+}
+.column{
+	flex:active;
+	padding:1px;
+}
