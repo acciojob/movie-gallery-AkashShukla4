@@ -1,6 +1,6 @@
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 *{
-	margin:0;
+	margin-right:auto-flow;
 }
 .conatiner{
 	display:flex;
@@ -10,6 +10,7 @@
 }
 .row1, .row2 , .row3{
   display:flex;
+	flex-wrap: wrap;
 	padding: 1px;
 }
 
