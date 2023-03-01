@@ -10,8 +10,6 @@
 }
 .row1, .row2 , .row3{
   display:flex;
+	padding: 1px;
 }
-.column{
-	flex:active;
-	padding:1px;
-}
+
