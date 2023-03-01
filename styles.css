@@ -4,13 +4,14 @@
 }
 .conatiner{
 	display:flex;
+	flex-wrap: wrap;
 	flex-direction:row;
 	align-items:center;
 	
 }
 .row1, .row2 , .row3{
   display:flex;
-	flex-wrap: wrap;
+	
 	padding: 1px;
 }
 
