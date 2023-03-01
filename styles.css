@@ -1,6 +1,6 @@
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 *{
-	margin-right:auto-flow;
+	border-sizing:border-box;
 }
 .conatiner{
 	display:flex;
